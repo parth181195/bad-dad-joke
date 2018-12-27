@@ -1,10 +1,14 @@
-# bad_dad_jokes
+# Bad Dad Joke
 
-A new Flutter project.
+An simple app that uses [icanhazdadjoke](https://icanhazdadjoke.com/api) api
+
+## Preview
+
+<img src="./preview/preview.gif" height="400" alt="Screenshot"/>
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
